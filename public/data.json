@@ -1,0 +1,44 @@
+{
+  "seasonResults": [
+    { "year": 2007, "position": 2 },
+    { "year": 2008, "position": 1 },
+    { "year": 2009, "position": 5 },
+    { "year": 2010, "position": 4 },
+    { "year": 2011, "position": 5 },
+    { "year": 2012, "position": 4 },
+    { "year": 2013, "position": 4 },
+    { "year": 2014, "position": 1 },
+    { "year": 2015, "position": 1 },
+    { "year": 2016, "position": 2 },
+    { "year": 2017, "position": 1 },
+    { "year": 2018, "position": 1 },
+    { "year": 2019, "position": 1 },
+    { "year": 2020, "position": 1 },
+    { "year": 2021, "position": 2 },
+    { "year": 2022, "position": 6 },
+    { "year": 2023, "position": 3 }
+  ],
+  "winsByTeam": [
+    { "team": "McLaren", "wins": 21 },
+    { "team": "Mercedes", "wins": 82 }
+  ],
+  "winsPerSeason": [
+    { "year": 2007, "wins": 4 },
+    { "year": 2008, "wins": 5 },
+    { "year": 2009, "wins": 2 },
+    { "year": 2010, "wins": 3 },
+    { "year": 2011, "wins": 3 },
+    { "year": 2012, "wins": 4 },
+    { "year": 2013, "wins": 1 },
+    { "year": 2014, "wins": 11 },
+    { "year": 2015, "wins": 10 },
+    { "year": 2016, "wins": 10 },
+    { "year": 2017, "wins": 9 },
+    { "year": 2018, "wins": 11 },
+    { "year": 2019, "wins": 11 },
+    { "year": 2020, "wins": 11 },
+    { "year": 2021, "wins": 8 },
+    { "year": 2022, "wins": 0 },
+    { "year": 2023, "wins": 1 }
+  ]
+}
